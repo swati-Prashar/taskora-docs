@@ -38,5 +38,5 @@ All documentation lives in the `/docs` directory, and assets like screenshots ar
 ## 🙋‍♀️ Author
 
 **Swati Prashar**  
-Technical Writer | Developer | Content Strategist  
+Technical Writer | Developer | Content Strategist   
 [GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/in/swati-prashar-74a13b52/)
