@@ -1,15 +1,46 @@
-# Home
+# Introduction
 
-## From Code to Content: A Software Engineer's Journey into Writing
+\
+\
+\
+Welcome to the official documentation workspace for **Taskora** – a lightweight, open-source task management tool.
+------------------------------------------------------------------------------------------------------------------
 
-Hi, I’m **Swati Prashar**! For the past 7 years, I’ve been deep into software development, writing code, solving technical problems, and building systems. But along the way, I realized that I enjoyed something else too—explaining complex technical ideas in simple, clear ways.
+This project is a **technical writing portfolio simulation**, demonstrating Docs-as-Code workflows using GitHub, GitBook, Jira, and Confluence. It includes comprehensive documentation such as installation, usage, troubleshooting, and simulated API references.
 
-That’s how I leaped from coding to technical writing. Now, instead of just building software, I help others understand it through API documentation, setup guides, and all kinds of technical content.
+***
 
-By using the **Docs-as-Code** approach, I ensure my documentation is clean, organized, and easy to update—just like the way I manage code. I also use **GitLab CI/CD** to automate the deployment process, keeping everything efficient and up-to-date.
+## 📚 Documentation Includes
 
-I believe that good writing isn’t just about words; it’s about making technical concepts accessible to everyone. Feel free to explore my portfolio and see how I combine my coding expertise with my passion for writing to create content that’s clear and helpful.
+* ✅ Installation Guide (Windows/macOS/Linux or web onboarding)
+* ✅ User Guide
+* ✅ API Reference (stub)
+* ✅ Troubleshooting & Error Docs
+* ✅ Update & Upgrade Guide
+* ✅ FAQs
+* ✅ Release Notes
 
-### Documentation Links
+***
 
-Here you'll find all the documentation I've worked on, showcasing my technical writing skills, from API guides to user manuals.
+## 🛠 Tools & Workflow
+
+| Tool           | Purpose                                 |
+| -------------- | --------------------------------------- |
+| **Jira**       | Agile ticket tracking & sprint planning |
+| **GitHub**     | Docs-as-Code repo (Markdown files)      |
+| **GitBook**    | Site generator for publishing docs      |
+| **Confluence** | Project journal and planning            |
+
+***
+
+## 📌 Structure
+
+All documentation lives in the `/docs` directory, and assets like screenshots are stored in `/assets/images`.
+
+***
+
+## 🙋‍♀️ Author
+
+**Swati Prashar**\
+Technical Writer | Developer | Content Strategist\
+[GitHub](https://github.com/) | [LinkedIn](https://www.linkedin.com/in/swati-prashar-74a13b52/)
