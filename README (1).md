@@ -1,6 +1,6 @@
 # Home
 
-## From Code to Content: A Software Engineer's Journey into Writing
+From Code to Content: A Software Engineer's Journey into Writing
 
 Hi, I’m **Swati Prashar**! For the past 7 years, I’ve been deep into software development, writing code, solving technical problems, and building systems. But along the way, I realized that I enjoyed something else too—explaining complex technical ideas in simple, clear ways.
 
