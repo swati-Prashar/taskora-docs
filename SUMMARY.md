@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [Home](README.md)
+* [Introduction](<README (1).md>)
 * [Installation Guide](docs/installation.md)
 * [User Guide](user-guide.md)
 * [API Reference](api-reference.md)
@@ -9,4 +10,3 @@
 * [Update Guide](update-guide.md)
 * [FAQs](faqs.md)
 * [Release Notes](release-notes.md)
-* [Home](home.md)
