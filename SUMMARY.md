@@ -9,3 +9,4 @@
 * [Update Guide](update-guide.md)
 * [FAQs](faqs.md)
 * [Release Notes](release-notes.md)
+* [Home](home.md)
