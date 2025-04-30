@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Home](README.md)
-* [Introduction](<README (1).md>)
+* [Taskora Introduction](README.md)
+* [Home](<README (1).md>)
 * [Installation Guide](docs/installation.md)
 * [User Guide](user-guide.md)
 * [API Reference](api-reference.md)
