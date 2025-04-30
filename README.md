@@ -1,8 +1,6 @@
 # Introduction
 
 \
-\
-\
 Welcome to the official documentation workspace for **Taskora** – a lightweight, open-source task management tool.
 ------------------------------------------------------------------------------------------------------------------
 
