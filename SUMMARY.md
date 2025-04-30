@@ -1,12 +1,11 @@
-# Summary(important for GitBook)
-This file tells GitBook how to organize your docs.
+# Table of contents
 
 * [Introduction](README.md)
 * [Installation Guide](docs/installation.md)
-* [User Guide](docs/user-guide.md)
-* [API Reference](docs/api-reference.md)
-* [Troubleshooting](docs/troubleshooting.md)
-* [Error Codes](docs/error-codes.md)
-* [Update Guide](docs/update-guide.md)
-* [FAQs](docs/faq.md)
-* [Release Notes](docs/release-notes.md)
+* [User Guide](user-guide.md)
+* [API Reference](api-reference.md)
+* [Troubleshooting](troubleshooting.md)
+* [Error Codes](error-codes.md)
+* [Update Guide](update-guide.md)
+* [FAQs](faqs.md)
+* [Release Notes](release-notes.md)
