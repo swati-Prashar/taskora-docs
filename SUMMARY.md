@@ -9,5 +9,5 @@
 * [Update Guide](update-guide.md)
 * [FAQs](faqs.md)
 * [Release Notes](release-notes.md)
-* - [About](about/README.md)
-  - [How I Built Taskora Docs](about/behind-the-scenes-taskora-docs.md)
+* - [About](about/swati-intro.md)
+  - [How I Built Taskora Docs   / Behind the scenes](about/how-i-built-taskora-docs-behind-the-scenes.md)
