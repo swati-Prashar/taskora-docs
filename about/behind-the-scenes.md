@@ -1,2 +1,0 @@
-# Behind the scenes
-
