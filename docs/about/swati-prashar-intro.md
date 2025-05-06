@@ -7,6 +7,3 @@ That’s how I leaped from coding to technical writing. Now, instead of just bui
 By using the **Docs-as-Code** approach, I ensure my documentation is clean, organized, and easy to update—just like the way I manage code. I also use **GitLab CI/CD** to automate the deployment process, keeping everything efficient and up-to-date.
 
 I believe that good writing isn’t just about words; it’s about making technical concepts accessible to everyone. Feel free to explore my portfolio and see how I combine my coding expertise with my passion for writing to create content that’s clear and helpful.
-
-## Documentation Links
-Here you'll find all the documentation I've worked on, showcasing my technical writing skills, from API guides to user manuals.
