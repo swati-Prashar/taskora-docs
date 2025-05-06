@@ -10,7 +10,6 @@
 * [FAQs](faqs.md)
 * [Release Notes](release-notes.md)
 
-## about
-*   [About](about/swati-intro.md)
-  * [How I Built Taskora Docs / Behind the Scenes](about/how-i-built-taskora-docs-behind-the-scenes.md)
+* [About](about/swati-intro.md)
+  * [Behind the Scenes: Taskora Docs](about/how-i-built-taskora-docs-behind-the-scenes.md)
 
