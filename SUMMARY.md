@@ -1,0 +1,17 @@
+# Table of contents
+
+* [Introduction](README.md)
+* [Taskora Documentation](docs/README.md)
+  * [Table of contents](docs/SUMMARY.md)
+  * [API Reference](docs/api-reference.md)
+  * [Error Codes](docs/error-codes.md)
+  * [FAQs](docs/faqs.md)
+  * [getting-started](docs/getting-started.md)
+  * [Installation Guide](docs/installation.md)
+  * [Release Notes](docs/release-notes.md)
+  * [Troubleshooting](docs/troubleshooting.md)
+  * [Update Guide](docs/update-guide.md)
+  * [User Guide](docs/user-guide.md)
+  * [About](docs/about/README.md)
+    * [Behind the Scenes: Taskora Docs](docs/about/behind-the-scenes-taskora-docs.md)
+    * [From Code to Content: A Software Engineer's Journey into Writing](docs/about/swati-prashar-intro.md)
