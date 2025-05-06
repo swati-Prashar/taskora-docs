@@ -11,5 +11,5 @@
 * [Release Notes](release-notes.md)
 
 * [About](about/swati-intro.md)
-  * [Behind the Scenes: Taskora Docs](about/how-i-built-taskora-docs-behind-the-scenes.md)
+  * [Behind the Scenes: Taskora Docs](about/behind-the-scenes-taskora-docs.md)
 
