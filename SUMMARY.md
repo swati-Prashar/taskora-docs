@@ -9,4 +9,5 @@
 * [Update Guide](update-guide.md)
 * [FAQs](faqs.md)
 * [Release Notes](release-notes.md)
-* [About me](about-me.md)
+* - [About](about/README.md)
+  - [How I Built Taskora Docs](about/behind-the-scenes-taskora-docs.md)
