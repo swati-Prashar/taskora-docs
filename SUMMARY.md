@@ -10,7 +10,7 @@
 * [FAQs](faqs.md)
 * [Release Notes](release-notes.md)
 
-## About
+## about
 
 * [Behind the scenes](about/behind-the-scenes.md)
 * [Swati Intro](about/swati-intro.md)
