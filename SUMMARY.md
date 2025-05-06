@@ -1,7 +1,7 @@
 # Summary
 
-* [📘 About](docs/about/swati-intro.md)
-  * [How I Built Taskora Docs](docs/about/how-i-built-taskora-docs-behind-the-scenes.md)
+* [📘 About](docs/about/swati-prashar-intro.md)
+  * [How I Built Taskora Docs](docs/about/behind-the-scenes-taskora-docs.md)
 
 * [🛠 Installation](docs/installation/installation.md)
 
