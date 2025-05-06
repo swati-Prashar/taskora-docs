@@ -1,2 +1,0 @@
-# Taskora Documentation
-

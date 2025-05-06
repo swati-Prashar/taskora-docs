@@ -1,7 +1,6 @@
 # Taskora Installation Guide
 
 Welcome to the Taskora installation guide. Follow the steps below to install Taskora on your operating system.
-insideeeeeeeeee
 ---
 
 ## 📋 System Requirements

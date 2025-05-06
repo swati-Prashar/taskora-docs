@@ -1,17 +1,26 @@
-# Table of contents
+# Summary
 
-* [Introduction](README.md)
-* [Taskora Documentation](docs/README.md)
-  * [Table of contents](docs/SUMMARY.md)
-  * [API Reference](docs/api-reference.md)
-  * [Error Codes](docs/error-codes.md)
-  * [FAQs](docs/faqs.md)
-  * [getting-started](docs/getting-started.md)
-  * [Installation Guide](docs/installation.md)
-  * [Release Notes](docs/release-notes.md)
-  * [Troubleshooting](docs/troubleshooting.md)
-  * [Update Guide](docs/update-guide.md)
-  * [User Guide](docs/user-guide.md)
-  * [About](docs/about/README.md)
-    * [Behind the Scenes: Taskora Docs](docs/about/behind-the-scenes-taskora-docs.md)
-    * [From Code to Content: A Software Engineer's Journey into Writing](docs/about/swati-prashar-intro.md)
+* [📘 About](docs/about/swati-intro.md)
+  * [How I Built Taskora Docs](docs/about/how-i-built-taskora-docs-behind-the-scenes.md)
+
+* [🛠 Installation](docs/installation/installation.md)
+
+* [🚀 Getting Started](docs/getting-started/first-time-setup.md)
+
+* [🧾 User Guides](docs/user-guides/using-taskora-features.md)
+
+* [🧪 Troubleshooting](docs/troubleshooting/common-issues.md)
+
+* [🔄 Update Guides](docs/update-guides/version-updates.md)
+
+* [🔍 API Docs](docs/api-docs/api-reference.md)
+
+* [📋 Internal Docs (Wiki)](docs/internal-docs/team-onboarding.md)
+
+* [🧭 Writing Process / Docs-as-Code](docs/docs-as-code/workflow.md)
+
+* [❗ Error Codes](docs/error-codes/taskora-error-codes.md)
+
+* [❓ FAQ](docs/faq/faq.md)
+
+* [📦 Release Notes](docs/release-notes/changelog.md)
