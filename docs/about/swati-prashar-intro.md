@@ -1,9 +1,11 @@
-# From Code to Content: A Software Engineer's Journey into Writing
+# 📘 About
 
-Hi, I’m **Swati Prashar**! For the past 7 years, I’ve been deep into software development, writing code, solving technical problems, and building systems. But along the way, I realized that I enjoyed something else too—explaining complex technical ideas in simple, clear ways.
+Hi, I’m **Swati Prashar**, a frontend developer turned technical writer with 8+ years of experience in software development. While I haven’t held a formal tech writing title yet, my background in building and shipping products gives me a strong foundation in creating accurate, developer-focused documentation.
 
-That’s how I leaped from coding to technical writing. Now, instead of just building software, I help others understand it through API documentation, setup guides, and all kinds of technical content.
+Throughout my career, I’ve worked closely with SMEs—often being one myself—and have mentored junior developers, reviewed technical work, and clarified complex systems. In fact, in my last role, I voluntarily created and maintained our internal code setup documentation. It originally took new developers up to four days (and multiple calls to senior engineers) just to get their systems up and running. I saw the gap, wrote clear setup docs, and made onboarding dramatically smoother. That experience sparked my interest in technical writing.
 
-By using the **Docs-as-Code** approach, I ensure my documentation is clean, organized, and easy to update—just like the way I manage code. I also use **GitLab CI/CD** to automate the deployment process, keeping everything efficient and up-to-date.
+As my family responsibilities have grown, especially with a young child, I’ve stepped back from full-time development but stayed close to tech. I leaned into what I’ve always enjoyed: explaining complex things clearly. Technical writing isn’t just a fit—it’s a natural extension of what I’ve already been doing.
 
-I believe that good writing isn’t just about words; it’s about making technical concepts accessible to everyone. Feel free to explore my portfolio and see how I combine my coding expertise with my passion for writing to create content that’s clear and helpful.
+To demonstrate this, I built **Taskora**—a dummy internal task management product—to simulate real-world documentation workflows. I used a **Docs-as-Code** approach with **GitBook, GitLab CI/CD, Jira, and Confluence**, writing everything from installation guides to troubleshooting documents.
+
+Feel free to explore my portfolio and see how I combine my coding expertise with my passion for writing to create content that’s clear and helpful.
