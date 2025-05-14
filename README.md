@@ -1,8 +1,6 @@
 # Introduction
 
-\
 Welcome to the official documentation workspace for **Taskora** – a lightweight, open-source task management tool.
-------------------------------------------------------------------------------------------------------------------
 
 This project is a **technical writing portfolio simulation**, demonstrating Docs-as-Code workflows using GitHub, GitBook, Jira, and Confluence. It includes comprehensive documentation such as installation, usage, troubleshooting, and simulated API references.
 
