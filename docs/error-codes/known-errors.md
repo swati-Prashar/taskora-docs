@@ -1,17 +1,11 @@
 # ❗ Error Codes
 
----
-description: Errors
----
 
-# ❗ Error Codes
 
 | Code | Message      |
 | ---- | ------------ |
 | 401  | Unauthorized |
 | 500  | Server Error |
-
-
 
 ```markdown
 # Error Codes
