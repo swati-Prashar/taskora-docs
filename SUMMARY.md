@@ -15,3 +15,4 @@
 * [❓ FAQ](docs/faq/faq.md)
 * [📦 Release Notes](docs/release-notes/changelog.md)
 * [🧰 Contributing](docs/contributing/contributing.md)
+* [📅 Changelog](docs/changelog/changelog.md)
