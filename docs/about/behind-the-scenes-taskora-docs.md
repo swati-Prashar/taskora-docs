@@ -1,74 +1,54 @@
-# 🛠️ How I Built Taskora Docs
+# How I Built Taskora Docs
 
-**Taskora Docs** is more than just a dummy project—it's a hands-on simulation of what real-world technical writing looks like. This section gives you a peek behind the scenes at the tools, thought process, and execution that went into building this portfolio from scratch.
-
----
-
-## 💭 The Vision
-
-I wanted to go beyond writing samples and create a **complete technical documentation ecosystem**—one that mirrors what a technical writer does in a product-based team. That meant:
-
-- Planning like a PM  
-- Structuring like an IA specialist  
-- Writing like a documentation expert  
-- Using tools like a real-world Agile team  
+> 🚀 A behind-the-scenes look at how I built a complete technical documentation project using real tools, a Docs-as-Code workflow, and product-thinking principles.
 
 ---
 
-## 🧰 Tools I Used
+## 🔧 Why I Built It
 
-| Tool       | Purpose                                                        |
-|------------|----------------------------------------------------------------|
-| **Jira**   | Created Epics, Stories, and Tasks to plan documentation modules |
-| **GitBook**| Hosted the live docs and structured pages for maximum readability |
-| **GitHub** | Maintained Markdown files and version-controlled documentation  |
-| **Confluence** | Simulated internal collaboration and decision logs         |
-| **Markdown** | Used for clean, semantic content writing                    |
-| **Git**    | Tracked changes, commits, and issue linkage                   |
-| **ChatGPT**| Used as a writing assistant to brainstorm, refine, and rephrase |
+As a **developer-turned-technical writer**, I wanted to do more than submit writing samples. I wanted to **simulate a real-world documentation workflow** — the kind companies expect when hiring a technical writer. That meant building an internal tool (Taskora) and documenting it from the ground up with proper version control, ticketing, structure, and publishing in mind.
 
 ---
 
-## 📋 My Workflow
+## 🧱 My Stack
 
-1. **Ideation & Planning**  
-   Created the dummy product idea “Taskora”—a task management tool—and documented product goals, target audience, and feature list.
-
-2. **Agile Planning**  
-   Built a project backlog in **Jira** with Epics like Installation, User Guide, API Docs, etc., and broke them down into actionable tickets.
-
-3. **Docs-as-Code Setup**  
-   Linked my GitHub repo to GitBook and began writing each document in **Markdown**, using semantic tags, symbols, and consistent formatting.
-
-4. **Live Publishing & Version Control**  
-   Used Git to push updates and tracked progress. Implemented changelogs and status badges.
-
-5. **Design & IA Decisions**  
-   Structured content into modules, prioritized readability, added onboarding pages, and created a logical documentation flow.
-
-6. **Review & Polish**  
-   Rewrote multiple drafts, simplified language, refined tone, and ensured everything was **clear, concise, and user-focused**.
+- **GitHub** — Version control for all Markdown docs  
+- **GitBook** — Hosted user-facing documentation portal  
+- **Jira** — Documentation tickets, epics, and sprint planning  
+- **Confluence** — Planning pages, internal wiki, and style guide notes  
+- **GitLab CI/CD (Planned)** — To auto-lint Markdown and enable continuous deployment
 
 ---
 
-## ✅ What I Did Myself
+## 🗂 How I Structured the Docs
 
-- Product concept, design, and architecture  
-- Jira planning and ticket creation  
-- GitHub setup, repo management, and commits  
-- GitBook publishing, formatting, and IA  
-- Writing and editing every doc (ChatGPT was used as an assistant only)  
-- Tool integration and documentation strategy  
-- Visual assets such as badges and cover image design  
+- Sidebar navigation grouped by documentation type: installation, usage, updates, APIs, troubleshooting  
+- Clean file structure using folders (e.g., `/docs/installation/`, `/docs/api-docs/`)  
+- Reusable patterns across pages (headings, callouts, code blocks, tips)  
+- Summary and landing page written in a conversational, human-centered tone  
 
 ---
 
-## 🔍 Why This Matters
+## 🧭 Docs-as-Code Workflow
 
-This project demonstrates not just my ability to write—but to **think like a product team member**, organize and manage content, troubleshoot technical issues, and bring a complex documentation system to life from scratch.
+- Wrote all docs in **Markdown locally**  
+- Used **Git** for version control and branching  
+- Committed and pushed updates to **GitHub**  
+- Connected GitHub with **GitBook** for live publishing  
+- Tracked documentation tasks using **Jira** (epics, features, bugs)  
+- Documented the entire workflow in `writing-process-docs-as-code.md`  
 
 ---
 
-> 🧠 **Documentation is more than writing—it's problem-solving through words.**  
-> This project shows how I solve, structure, and support users through clear, technical communication.
+## 🏁 What I Learned
 
+- Clear structure matters as much as clear writing  
+- Even a dummy product can become a powerful demo of process mastery  
+- Technical writing isn't just writing — it’s **information design**, **collaboration**, and **iteration**  
+
+---
+
+## 📣 Explore It
+
+- 📝 **Docs**: [taskora-docs.gitbook.io/taskora](https://taskora-docs.gitbook.io/taskora)  
+- 💻 **GitHub Repo**: [github.com/swati-Prashar/taskora-docs](https://github.com/swati-Prashar/taskora-docs)  

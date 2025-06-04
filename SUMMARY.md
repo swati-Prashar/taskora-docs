@@ -1,5 +1,22 @@
 # Table of contents
 
+<!-- * [Introduction](README.md)
+* [📘 About](docs/about/swati-prashar-intro.md)
+  * [How I Built Taskora Docs](docs/about/behind-the-scenes-taskora-docs.md)
+* [🛠️ Installation](docs/installation/installation.md)
+* [🚀 Getting Started](docs/getting-started/first-time-setup.md)
+* [🧾 User Guides](user-guides.md)
+* [🧪 Troubleshooting](docs/troubleshooting/common-issues.md)
+* [🔄 Update Guides](docs/update-guides/update-guides.md)
+* [🔍 API Docs](docs/api-docs.md)
+* [📋 Internal Docs (Wiki)](internal-docs-wiki.md)
+* [🧭 Writing Process / Docs-as-Code](writing-process-docs-as-code.md)
+* [❗ Error Codes](docs/error-codes/known-errors.md)
+* [❓ FAQ](docs/faq/faq.md)
+* [📦 Release Notes](docs/release-notes/changelog.md)
+* [🧰 Contributing](docs/contributing/contributing.md)
+* [📅 Changelog](docs/changelog/changelog.md) -->
+
 * [Introduction](README.md)
 * [📘 About](docs/about/swati-prashar-intro.md)
   * [How I Built Taskora Docs](docs/about/behind-the-scenes-taskora-docs.md)
