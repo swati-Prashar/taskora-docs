@@ -1,5 +1,7 @@
 # 🔍 API Docs
 
+# 🔍 API Docs
+
 ```
 # Taskora API Documentation
 ```
