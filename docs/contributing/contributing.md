@@ -1,11 +1,14 @@
-# Contributing to Taskora Docs
+# 🧰 Contributing
 
 ## Getting Started
+
 ```bash
 git clone https://github.com/swati-Prashar/taskora-docs.git
 cd taskora-docs
 git checkout -b update-docs
+```
 
+```
 Writing Guidelines
 
 Use markdown best practices
@@ -19,3 +22,4 @@ Create a branch
 Make changes
 
 Open a PR and link any issues
+```
