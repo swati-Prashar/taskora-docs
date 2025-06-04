@@ -14,3 +14,4 @@
 * [❗ Error Codes](docs/error-codes/known-errors.md)
 * [❓ FAQ](docs/faq/faq.md)
 * [📦 Release Notes](docs/release-notes/changelog.md)
+* [🧰 Contributing](docs/contributing/contributing.md)
