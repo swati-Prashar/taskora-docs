@@ -8,7 +8,7 @@
 * [🧾 User Guides](user-guides.md)
 * [🧪 Troubleshooting](docs/troubleshooting/common-issues.md)
 * [🔄 Update Guides](docs/update-guides/update-guides.md)
-* [🔍 API Docs](docs/api-docs.md)
+* [🔍 API Docs](api-docs.md)
 * [📋 Internal Docs (Wiki)](internal-docs-wiki.md)
 * [🧭 Writing Process / Docs-as-Code](writing-process-docs-as-code.md)
 * [❗ Error Codes](docs/error-codes/known-errors.md)
