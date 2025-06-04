@@ -1,2 +1,2 @@
-# Error Codes
+# ❗ Error Codes
 
