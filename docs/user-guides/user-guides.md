@@ -1,90 +1,58 @@
-# User Guide
+# 🧾 Taskora User Guides
+
+Welcome to the **Taskora User Guides**. These tutorials will help you get familiar with Taskora's main features so you can quickly get productive.
 
 ---
-description: >-
-  Taskora is designed to simplify internal task management. Whether you're a
-  team member or an admin, this guide walks you through how to use the platform
-  effectively.
+
+## 📌 1. Creating a Task
+
+1. Click on the **“+ New Task”** button.
+2. Enter the task title and optional description.
+3. Set priority, due date, and assignee.
+4. Click **Save**.
+
+👉 _Tasks will automatically appear in the selected project’s Kanban board._
+
 ---
 
-# 🧾 User Guides
+## 🧑‍🤝‍🧑 2. Assigning Tasks to Team Members
 
-**1. Dashboard Overview**
+1. Open an existing task.
+2. Use the **Assignee** dropdown to select a team member.
+3. Click **Update Task** to save changes.
 
-Once logged in, you’ll land on the **Dashboard**. Here’s what you’ll see:
+✅ Only project members will appear in the dropdown.
 
-* **My Tasks:** Tasks assigned to you, sorted by status.
-* **Team Activity:** Recent actions by your team members.
-* **Create Task** button: For adding new tasks quickly.
+---
 
-***
+## 🗂️ 3. Moving Tasks Across Boards
 
-**2. Creating a Task**
+- Drag and drop tasks between columns like “To Do,” “In Progress,” and “Done.”
+- Changes are saved in real-time.
 
-**Steps:**
+---
 
-1. Click on **“Create Task”**.
-2. Fill in the following:
-   * **Title**
-   * **Description**
-   * **Due Date**
-   * **Assignee**
-   * **Priority** (Low/Medium/High)
-3. Click **Save**.
+## 🔍 4. Searching for a Task
 
-The task appears under the **To Do** column by default.\
+- Use the search bar on the top-right to find tasks by title or keyword.
+- You can also filter by status, assignee, or due date.
 
+---
 
-***
+## ✏️ 5. Editing or Deleting a Task
 
-**3. Task Status & Workflow**
+- Click a task to open its details.
+- Use the **Edit** icon to make changes.
+- Use the **Delete** button at the bottom (you will be asked to confirm).
 
-Tasks move through the following stages:
+---
 
-* **To Do:** Not started
-* **In Progress:** Work is ongoing
-* **Blocked:** Waiting on external input or issue
-* **Done:** Task completed
+## 🙋 Need Help?
 
-**To update status:**\
-Drag and drop the task to a new column, or open the task and select the new status.
+If you run into any issues, check the [Troubleshooting](./docs/troubleshooting/common-issues.md) section or contact your admin.
 
-***
+---
 
-**4. Task Comments & History**
+Want to expand this into **Admin Guides** or include **screenshots/tooltips** next?
 
-Inside any task, you can:
-
-* Leave **comments** for discussion
-* View a **timeline** of changes: status updates, reassignment, edits, etc.
-
-***
-
-**5. User Roles & Permissions**
-
-*   **Admin:**
-
-    * Add/remove users
-    * Manage all tasks
-    * Access analytics (if enabled)
-
-
-
-    * **Member:**
-      * Create & manage their tasks
-      * View team-wide progress
-
-    **6. Notifications**
-
-    Taskora sends in-app and email notifications for:
-
-    * Task assignments
-    * Due dates approaching
-    * Status changes
-
-    You can manage your preferences in **Settings → Notifications**.\
-
-
-    **7. Project Views (Optional Feature)**
-
-    If enabled, you can organize tasks under different **projects** and switch between **Kanban**, **Calendar**, or **List views**.
+Let me know if you'd like a downloadable `.md` file or a GitBook version of this!
