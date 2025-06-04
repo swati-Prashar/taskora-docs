@@ -1,28 +1,26 @@
 # 🔍 API Docs
 
-## Taskora API Documentation
+```
+# Taskora API Documentation
+```
 
-### Base URL:
+<pre class="language-markdown"><code class="lang-markdown"><strong>## Base URL:
+</strong>`https://api.taskora.dev/v1`
 
-`https://api.taskora.dev/v1`
+## Authentication
+Send Bearer Token in header:
+`Authorization: Bearer &#x3C;your-token>`
 
-### Authentication
+## Endpoints
 
-Send Bearer Token in header:`Authorization: Bearer <your-token>`
-
-### Endpoints
-
-#### GET /tasks
-
+### GET /tasks
 Returns all tasks.
 
-#### POST /tasks
-
+### POST /tasks
 Creates a new task. Body:
-
 ```json
 {
   "title": "Write Docs",
   "status": "To Do"
 }
-```
+</code></pre>
