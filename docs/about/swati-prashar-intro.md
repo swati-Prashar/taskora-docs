@@ -1,11 +1,9 @@
 # 📘 About
 
-Hi, I’m **Swati Prashar**, a frontend developer turned technical writer with 8+ years of experience in software development. While I haven’t held a formal tech writing title yet, my background in building and shipping products gives me a strong foundation in creating accurate, developer-focused documentation.
+Hi, I’m Swati Prashar.
 
-Throughout my career, I’ve worked closely with SMEs—often being one myself—and have mentored junior developers, reviewed technical work, and clarified complex systems. In fact, in my last role, I voluntarily created and maintained our internal code setup documentation. It originally took new developers up to four days (and multiple calls to senior engineers) just to get their systems up and running. I saw the gap, wrote clear setup docs, and made onboarding dramatically smoother. That experience sparked my interest in technical writing.
+I’m a frontend engineer with 8 years of experience in SaaS products, currently focusing on product documentation and UX-focused content. My background in frontend development helps me understand how products are built, which allows me to write documentation that is technically accurate, clear, and easy to follow.
 
-As my family responsibilities have grown, especially with a young child, I’ve stepped back from full-time development but stayed close to tech. I leaned into what I’ve always enjoyed: explaining complex things clearly. Technical writing isn’t just a fit—it’s a natural extension of what I’ve already been doing.
+This documentation portfolio showcases my ability to structure content, explain workflows, and write user-friendly documentation for web applications and internal tools. While this is a portfolio project, the documentation reflects real-world scenarios, developer considerations, and product thinking.
 
-To demonstrate this, I built **Taskora**—a dummy internal task management product—to simulate real-world documentation workflows. I used a **Docs-as-Code** approach with **GitBook, GitLab CI/CD, Jira, and Confluence**, writing everything from installation guides to troubleshooting documents.
-
-Feel free to explore my portfolio and see how I combine my coding expertise with my passion for writing to create content that’s clear and helpful.
+My goal is to contribute to teams where clear documentation improves product adoption, usability, and collaboration between engineering and non-technical stakeholders.
