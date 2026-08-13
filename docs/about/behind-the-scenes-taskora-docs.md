@@ -1,16 +1,16 @@
 # How I Built Taskora Docs
 
-> 🚀 A behind-the-scenes look at how I built a complete technical documentation project using real tools, a Docs-as-Code workflow, and product-thinking principles.
+> A behind-the-scenes look at how I built a complete technical documentation project using real tools, a Docs-as-Code workflow, and product-thinking principles.
 
 ---
 
-## 🔧 Why I Built It
+## Why I Built It
 
 As a **developer-turned-technical writer**, I wanted to do more than submit writing samples. I wanted to **simulate a real-world documentation workflow** — the kind companies expect when hiring a technical writer. That meant building an internal tool (Taskora) and documenting it from the ground up with proper version control, ticketing, structure, and publishing in mind.
 
 ---
 
-## 🧱 My Stack
+## My Stack
 
 - **GitHub** — Version control for all Markdown docs  
 - **GitBook** — Hosted user-facing documentation portal  
@@ -20,7 +20,7 @@ As a **developer-turned-technical writer**, I wanted to do more than submit writ
 
 ---
 
-## 🗂 How I Structured the Docs
+## How I Structured the Docs
 
 - Sidebar navigation grouped by documentation type: installation, usage, updates, APIs, troubleshooting  
 - Clean file structure using folders (e.g., `/docs/installation/`, `/docs/api-docs/`)  
@@ -29,7 +29,7 @@ As a **developer-turned-technical writer**, I wanted to do more than submit writ
 
 ---
 
-## 🧭 Docs-as-Code Workflow
+## Docs-as-Code Workflow
 
 - Wrote all docs in **Markdown locally**  
 - Used **Git** for version control and branching  
@@ -40,7 +40,7 @@ As a **developer-turned-technical writer**, I wanted to do more than submit writ
 
 ---
 
-## 🏁 What I Learned
+## What I Learned
 
 - Clear structure matters as much as clear writing  
 - Even a dummy product can become a powerful demo of process mastery  
@@ -48,7 +48,7 @@ As a **developer-turned-technical writer**, I wanted to do more than submit writ
 
 ---
 
-## 📣 Explore It
+## Explore It
 
-- 📝 **Docs**: [taskora-docs.gitbook.io/taskora](https://taskora-docs.gitbook.io/taskora)  
-- 💻 **GitHub Repo**: [github.com/swati-Prashar/taskora-docs](https://github.com/swati-Prashar/taskora-docs)  
+- **Docs**: [taskora-docs.gitbook.io/taskora](https://taskora-docs.gitbook.io/taskora)  
+- **GitHub Repo**: [github.com/swati-Prashar/taskora-docs](https://github.com/swati-Prashar/taskora-docs)  
