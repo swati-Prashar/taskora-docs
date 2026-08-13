@@ -1,4 +1,4 @@
-# 🔍 API Docs
+# API Docs
 
 ```markdown
 # Taskora API Documentation
@@ -267,19 +267,7 @@ curl -X DELETE -H "Authorization: Bearer <token>" \
 
 ***
 
-### Optional / Additional endpoints (suggestions)
-
-You may also provide endpoints for:
-
-* `GET /users` — list users
-* `GET /projects` — list projects
-* `POST /auth/login` — obtain token (if you support username/password)
-* `PATCH /tasks/{id}/status` — quick status updates
-* Webhooks for task events: `POST /webhooks` / `DELETE /webhooks/{id}`
-
 ### Versioning & Changelog
-
-Add a small changelog section in your docs and a `Last updated` timestamp. Example:
 
 **Version:** `v1` — stable\
 **Last updated:** `2025-10-29`
