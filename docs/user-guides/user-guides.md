@@ -53,6 +53,4 @@ If you run into any issues, check the [Troubleshooting](./docs/troubleshooting/c
 
 ---
 
-Want to expand this into **Admin Guides** or include **screenshots/tooltips** next?
 
-Let me know if you'd like a downloadable `.md` file or a GitBook version of this!
