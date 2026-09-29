@@ -1,4 +1,4 @@
-# 📘 About
+# About
 
 Hi, I’m Swati Prashar.
 
