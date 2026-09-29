@@ -49,7 +49,7 @@ Welcome to the **Taskora User Guides**. These tutorials will help you get famili
 
 ## 🙋 Need Help?
 
-If you run into any issues, check the [Troubleshooting](./docs/troubleshooting/common-issues.md) section or contact your admin.
+If you run into any issues, check the [Troubleshooting](https://taskora-docs.gitbook.io/taskora/common-issues) section or contact your admin.
 
 ---
 
