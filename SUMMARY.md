@@ -4,6 +4,8 @@
 * [🚀 Getting Started](first-time-setup/README.md)
   * [🛠️ Installation](first-time-setup/installation.md)
   * [📘 About](first-time-setup/swati-prashar-intro.md)
+  * [React Foundations](first-time-setup/react-foundations/README.md)
+    * [Page 1](first-time-setup/react-foundations/page-1.md)
 
 ## API Docs Section
 
