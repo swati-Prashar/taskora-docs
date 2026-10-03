@@ -3,25 +3,30 @@
 * [Introduction](README.md)
 * [🚀 Getting Started](first-time-setup/README.md)
   * [🛠️ Installation](first-time-setup/installation.md)
-  * [📘 About](first-time-setup/swati-prashar-intro/README.md)
-    * [How I Built Taskora Docs](first-time-setup/swati-prashar-intro/behind-the-scenes-taskora-docs.md)
+  * [📘 About](first-time-setup/swati-prashar-intro.md)
 
 ## API Docs Section
 
 * [🔍 API Docs](api-docs-section/api-docs.md)
-* [❓ FAQ](api-docs-section/faq.md)
+* [🧪 Troubleshooting](api-docs-section/common-issues.md)
 * [❗ Error Codes](api-docs-section/known-errors.md)
-* [Docs-as-Code Pipeline](api-docs-section/writing-process.md)
+
+## Architectural Explanations
+
+* [How I Built Taskora Docs](architectural-explanations/behind-the-scenes-taskora-docs.md)
+* [❓ FAQ](architectural-explanations/faq.md)
+* [Docs-as-Code Pipeline](architectural-explanations/writing-process.md)
 
 ***
 
 * [🧾 User Guides](docs/user-guides/user-guides.md)
-* [📋 Internal Docs (Wiki)](docs/internal-docs/internal-docs-wiki.md)
 
 ## Maintenance & Release
 
-* [🧪 Troubleshooting](maintenance-and-release/common-issues.md)
 * [🔄 Update Guides](maintenance-and-release/update-guides.md)
-* [📦 Release Notes](maintenance-and-release/changelog.md)
-* [🧰 Contributing](maintenance-and-release/contributing.md)
-* [📅 Changelog](maintenance-and-release/changelog-1.md)
+
+## Update & Sync Guides
+
+* [🧰 Contributing](update-and-sync-guides/contributing.md)
+* [📦 Release Notes](update-and-sync-guides/changelog.md)
+* [📅 Changelog](update-and-sync-guides/changelog-1.md)
