@@ -1,4 +1,4 @@
-# API Docs
+# 🔍 API Docs
 
 ```markdown
 # Taskora API Documentation
@@ -13,8 +13,6 @@ All endpoints require a Bearer token in the `Authorization` header.
 
 
 ```
-
-
 
 ***
 
@@ -84,8 +82,6 @@ Status codes used:
 * `assigneeId` (string, optional) — filter by assignee
 * `search` (string, optional) — text search on title/description
 * `sort` (string, optional) — e.g. `createdAt:desc` or `dueDate:asc`
-
-&#x20;
 
 Example Request:
 

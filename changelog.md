@@ -1,6 +1,8 @@
----
+# 📅 Changelog
 
-### 📄 `CHANGELOG.md`
+***
+
+#### 📄 `CHANGELOG.md`
 
 ```markdown
 # Changelog - Taskora Docs
@@ -12,3 +14,4 @@
 
 ## [2024-05-25]
 - Initial setup and GitBook integration
+```

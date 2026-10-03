@@ -1,22 +1,21 @@
-# Taskora Installation Guide
+# 🛠️ Installation
 
-Welcome to the Taskora installation guide. Follow the steps below to install Taskora on your operating system.
----
+## Welcome to the Taskora installation guide. Follow the steps below to install Taskora on your operating system.
 
 ## 📋 System Requirements
 
-- Windows 10 or later / macOS 10.14+ / Linux (Debian, Ubuntu, Fedora, RHEL)
-- 4 GB RAM (minimum), 8 GB recommended
-- 300 MB available disk space
-- Internet connection for downloading updates
+* Windows 10 or later / macOS 10.14+ / Linux (Debian, Ubuntu, Fedora, RHEL)
+* 4 GB RAM (minimum), 8 GB recommended
+* 300 MB available disk space
+* Internet connection for downloading updates
 
----
+***
 
 ## 📥 Download Taskora
 
-Visit the [Taskora Downloads Page](#) to download the latest version for your operating system.
+Visit the [Taskora Downloads Page](installation.md) to download the latest version for your operating system.
 
----
+***
 
 ## 🛠 Installation Steps
 
@@ -28,7 +27,7 @@ Visit the [Taskora Downloads Page](#) to download the latest version for your op
 
 > 📢 **Note:** If you see a Windows Defender SmartScreen warning, click **More info** → **Run anyway**.
 
----
+***
 
 ### 🍎 macOS
 
@@ -36,10 +35,10 @@ Visit the [Taskora Downloads Page](#) to download the latest version for your op
 2. Open the `.dmg` file and drag the **Taskora** icon into your **Applications** folder.
 3. Launch Taskora from Spotlight or the Applications folder.
 
-> ⚠️ **Warning:** You might need to allow the app under  
+> ⚠️ **Warning:** You might need to allow the app under\
 > **System Preferences → Security & Privacy → General** if prompted.
 
----
+***
 
 ### 🐧 Linux
 
@@ -51,11 +50,14 @@ Install Taskora via terminal:
 sudo apt update
 sudo apt install taskora
 ```
----
+
+***
 
 >
+
 ## 🔄 Post-Installation Checklist
-- Verify Taskora launches without errors.
-- Complete the first-time setup wizard.
-- Sign in or create a Taskora account.
-- Check for available updates.
+
+* Verify Taskora launches without errors.
+* Complete the first-time setup wizard.
+* Sign in or create a Taskora account.
+* Check for available updates.
