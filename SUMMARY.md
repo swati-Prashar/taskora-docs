@@ -5,8 +5,7 @@
   * [🛠️ Installation](first-time-setup/installation.md)
   * [📘 About](first-time-setup/swati-prashar-intro.md)
   * [React Core Architecture Blueprint](first-time-setup/react-core-architecture-blueprint/README.md)
-    * [Conceptual Reference: Interactive Movie Dashboard](first-time-setup/react-core-architecture-blueprint/conceptual-reference-interactive-movie-dashboard.md)
-  * [Modern Architecture: Next.js Server Components](first-time-setup/modern-architecture-next.js-server-components.md)
+    * [Next.js & React Core Architecture Blueprint](first-time-setup/react-core-architecture-blueprint/next.js-and-react-core-architecture-blueprint.md)
 
 ## API Docs Section
 
