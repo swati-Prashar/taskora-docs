@@ -1,3 +1,7 @@
+---
+icon: gear-complex
+---
+
 # Docs-as-Code Pipeline
 
 This section explains how I used a Docs-as-Code approach to create Taskora documentation.
