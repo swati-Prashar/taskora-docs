@@ -1,3 +1,7 @@
+---
+icon: file-lines
+---
+
 # How I Built Taskora Docs
 
 > ```markdown
