@@ -4,8 +4,9 @@
 * [🚀 Getting Started](first-time-setup/README.md)
   * [🛠️ Installation](first-time-setup/installation.md)
   * [📘 About](first-time-setup/swati-prashar-intro.md)
-  * [React Foundations](first-time-setup/react-foundations/README.md)
-    * [Page 1](first-time-setup/react-foundations/page-1.md)
+  * [React Core Architecture Blueprint](first-time-setup/react-core-architecture-blueprint/README.md)
+    * [Conceptual Reference: Interactive Movie Dashboard](first-time-setup/react-core-architecture-blueprint/conceptual-reference-interactive-movie-dashboard.md)
+  * [Modern Architecture: Next.js Server Components](first-time-setup/modern-architecture-next.js-server-components.md)
 
 ## API Docs Section
 
@@ -13,11 +14,12 @@
 * [🧪 Troubleshooting](api-docs-section/common-issues.md)
 * [❗ Error Codes](api-docs-section/known-errors.md)
 
-## Architectural Explanations
+## Core Architecture
 
-* [How I Built Taskora Docs](architectural-explanations/behind-the-scenes-taskora-docs.md)
-* [❓ FAQ](architectural-explanations/faq.md)
-* [Docs-as-Code Pipeline](architectural-explanations/writing-process.md)
+* [How I Built Taskora Docs](core-architecture/behind-the-scenes-taskora-docs.md)
+* [❓ FAQ](core-architecture/faq.md)
+* [Docs-as-Code Pipeline](core-architecture/writing-process.md)
+* [Page 2](core-architecture/page-2.md)
 
 ***
 
