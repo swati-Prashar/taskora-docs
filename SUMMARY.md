@@ -7,8 +7,16 @@
   * [React Core Architecture Blueprint](first-time-setup/react-core-architecture-blueprint/README.md)
     * [Next.js & React Core Architecture Blueprint](first-time-setup/react-core-architecture-blueprint/next.js-and-react-core-architecture-blueprint.md)
 
+## Headless CMS & Core Features
+
+* [Real-Time Previews (Visual Editor Bridge)](headless-cms-and-core-features/real-time-previews-visual-editor-bridge.md)
+* [Caching & Content Delivery Performance](headless-cms-and-core-features/caching-and-content-delivery-performance.md)
+* [Programmatic Content Migrations (Management API)](headless-cms-and-core-features/programmatic-content-migrations-management-api.md)
+
 ## API Docs Section
 
+* [Reference: Multi-Framework API Fetching (Vue & Next.js)](api-docs-section/reference-multi-framework-api-fetching-vue-and-next.js.md)
+* [Reference: GraphQL Error Handling Framework](api-docs-section/reference-graphql-error-handling-framework.md)
 * [🔍 API Docs](api-docs-section/api-docs.md)
 * [🧪 Troubleshooting](api-docs-section/common-issues.md)
 * [❗ Error Codes](api-docs-section/known-errors.md)
