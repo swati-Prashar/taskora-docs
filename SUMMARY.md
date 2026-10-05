@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [🚀 Getting Started](first-time-setup/README.md)
+  * [Tutorial: Unified Multi-Framework Task Integration](first-time-setup/tutorial-unified-multi-framework-task-integration.md)
   * [🛠️ Installation](first-time-setup/installation.md)
   * [📘 About](first-time-setup/swati-prashar-intro.md)
   * [React Core Architecture Blueprint](first-time-setup/react-core-architecture-blueprint/README.md)
@@ -15,7 +16,7 @@
 
 ## API Docs Section
 
-* [Reference: Multi-Framework API Fetching (Vue & Next.js)](api-docs-section/reference-multi-framework-api-fetching-vue-and-next.js.md)
+* [Reference: Multi-Framework API Fetching (Vue, React, Next.js)](api-docs-section/reference-multi-framework-api-fetching-vue-react-next.js.md)
 * [Reference: GraphQL Error Handling Framework](api-docs-section/reference-graphql-error-handling-framework.md)
 * [🔍 API Docs](api-docs-section/api-docs.md)
 * [🧪 Troubleshooting](api-docs-section/common-issues.md)
